@@ -35,7 +35,7 @@ The **Overview** page acts as the primary entry point, providing a high-level ex
   * *Department & Education:* Highlights that Research & Development holds the highest volume of employees (961), while Life Sciences and Medical fields dominate educational backgrounds.
   * *Demographics:* Shows workforce distribution by gender (60% Male vs. 40% Female) and marital status (led by Married employees at 673).
 
-Screenshot/Over View.png
+![Over View](Screenshot/Over_View.png)
 
 ---
 
@@ -47,8 +47,7 @@ The **Attrition Analysis** page performs a deep dive into the demographic and be
   * *Salary & Overtime:* Lower compensation tiers experience sharper attrition percentages, and employees working overtime show a massive turnover propensity.
   * *Department Share:* Research & Development leads in total attrition count (56.12%) due to its sheer workforce size.
 
-![Attr Analysis](Screenshots/Attr%20Analysis.png)
-
+![Attr Analysis](Screenshot/Attr_Analysis.png)
 ---
 
 ### 3. 💰 Salary & Performance
@@ -58,8 +57,7 @@ The **Salary & Performance** page evaluates financial compensation structures, j
   * *Job Level Scaling:* Average salaries scale progressively across the 5 structural job levels, reaching up to $19.2K at executive tiers.
   * *Performance & Satisfaction:* Tracks performance ratings per department alongside employee satisfaction levels distributed across Very High (459), High (442), Low (289), and Medium (280) brackets.
 
-![Salary](Screenshots/Salary.png)
-
+![Salary](Screenshot/Salary.png)
 ---
 
 ### 4. 📈 Employee & Career
@@ -69,8 +67,7 @@ The **Employee & Career** page focuses on employee longevity, promotion timeline
   * *Promotion Bottlenecks:* Analyzes the "Time Since Last Promotion" to flag employees stuck in career stagnation.
   * *Training Frequency:* Tracks average training times across departments (averaging **3 training times**) to measure continuous learning investments.
 
-![Employee](Screenshots/Employee.png)
-
+![Employee](Screenshot/Employee.png)
 ---
 
 ## 🧠 Skills Demonstrated
