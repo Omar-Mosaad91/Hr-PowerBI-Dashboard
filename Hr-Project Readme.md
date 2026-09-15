@@ -35,7 +35,7 @@ The **Overview** page acts as the primary entry point, providing a high-level ex
   * *Department & Education:* Highlights that Research & Development holds the highest volume of employees (961), while Life Sciences and Medical fields dominate educational backgrounds.
   * *Demographics:* Shows workforce distribution by gender (60% Male vs. 40% Female) and marital status (led by Married employees at 673).
 
-![Over View](Screenshots/Over%20View.png)
+Screenshot/Over View.png
 
 ---
 
